@@ -49,7 +49,7 @@ let citas = [
     },
     {
       'autor': 'Antoine de Saint-Exupéry',
-      'texto': 'Lo que Caminando en línea recta no puede uno llegar muy lejos.'
+      'texto': 'Caminando en línea recta no puede uno llegar muy lejos.'
     },
     {
       'autor': 'Antoine de Saint-Exupéry',
