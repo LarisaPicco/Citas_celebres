@@ -21,7 +21,7 @@ return Math.floor(Math.random( ) * (max-min) + min)
                                         
         } 
   /*una vez que tenemos el indice aleatorio, cambiamos la cita que se le muestra al usuario*/
- cambiarCita()   /*se llama a la funcion */+
+ cambiarCita()   /*se llama a la funcion */
 
  /*hacemos el evento */
 
